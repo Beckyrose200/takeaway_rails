@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to Ransome's Pizza
+This application is a practise space for my ruby knowledge and skills
+Having a go at creating a pizza ordering site
 
-Things you may want to cover:
+Things I hope to achieve with this application:
 
-* Ruby version
+* Users sign up/in/out
 
-* System dependencies
-
-* Configuration
+* Password encryption
 
 * Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Nav bar
