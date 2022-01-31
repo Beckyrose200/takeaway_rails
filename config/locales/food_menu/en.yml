@@ -1,0 +1,35 @@
+en:
+  ransomes_pizza:
+    food_menu:
+      menu_items:
+        item_1: 
+          name: "BBQ Supreme Pizza"
+          description:
+          price:
+          toppings:
+          allergens:
+        item_2: 
+          name: "Plain Boring Cheese"
+          description:
+          price:
+          toppings:
+          allergens:
+        item_3: 
+          name: "Spicy Spicy Spicy"
+          description:
+          price:
+          toppings:
+          allergens:
+        item_4: 
+          name: "Spicy Spicy Spicy"
+          description:
+          price:
+          toppings:
+          allergens:
+        item_5: 
+          name: "Neapolitan Pizza"
+          description: "Neapolitan is the original pizza. This delicious pie dates all the way back to 18th century in Naples, Italy. During this time, the poorer citizens of this seaside city frequently purchased food that was cheap and could be eaten quickly. Luckily for them, Neapolitan pizza was affordable and readily available through numerous street vendors."
+          price:
+          toppings:
+          allergens:
+

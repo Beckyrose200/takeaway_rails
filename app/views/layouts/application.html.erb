@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>RansomesPizza</title>
+    <title>Ransomes Pizza</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= favicon_link_tag asset_path('pizza.png') %>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
@@ -12,5 +13,29 @@
 
   <body>
     <%= yield %>
-  </body>
+ 
+
+  <style> 
+  body {
+    background-image: url("/background_image.svg");
+    background-size: 120px 120px;
+    background-repeat: repeat-y;
+    background-repeat-x: repeat;
+    background-attachment: fixed;
+  }
+
+  </style>
+
+  <!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+    </head>
+    </body>
 </html>
